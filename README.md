@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 ---
 ### Skills
 
-![Swift/SwiftUI](https://img.shields.io/badge/Swift/SwiftUI-ffac45.svg?style=for-the-badge&logo=swift&logoColor=black) 
+![Swift/SwiftUI](https://img.shields.io/badge/Swift/SwiftUI-ffac45.svg?style=for-the-badge&logo=swift&logoColor=black)
+![GO](https://img.shields.io/badge/GO-blue.svg?style=for-the-badge&logo=go)
+![Python](https://img.shields.io/badge/Python-yellow.svg?style=for-the-badge&logo=ios)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![iOS](https://img.shields.io/badge/iOS-blue.svg?style=for-the-badge&logo=ios)
 ![Flutter](https://img.shields.io/badge/Flutter-0175c2.svg?style=for-the-badge&logo=flutter)
