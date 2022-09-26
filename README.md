@@ -31,6 +31,5 @@ Here are some ideas to get you started:
 
 ### Stats
 
-![su-'s github stats](https://github-readme-stats.vercel.app/api?username=cjnorman87&count_private=true&show_icons=true&theme=github_dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjnorman87&layout=compact&langs_count=8&theme=github_dark)
 ![trophy](https://github-profile-trophy.vercel.app/?username=cjnorman87&theme=darkhub)
