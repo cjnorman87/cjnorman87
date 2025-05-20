@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 
 ---
-### Skills
+### Skillz
 
 ![Swift/SwiftUI](https://img.shields.io/badge/Swift/SwiftUI-ffac45.svg?style=for-the-badge&logo=swift&logoColor=black)
 ![GO](https://img.shields.io/badge/GO-blue.svg?style=for-the-badge&logo=go)
